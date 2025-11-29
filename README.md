@@ -49,7 +49,7 @@ chatbot-for-online-clothing-showroom/
 
 ## Team
 
-**Team Name:** Team Vastrabagh
+**Team Name:** Task Masters
 
 **Members:**
 - Noumish Panadiwal
