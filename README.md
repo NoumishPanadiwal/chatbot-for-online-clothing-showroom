@@ -37,7 +37,7 @@ This is a responsive and interactive website for Vastrabagh clothing showroom, f
 - Noumish Panadiwal
 - Prasanna Amin
 - Sarthak Choudhary
-- Raj Kankane
+- Arya Shah
 
 
 ## License
