@@ -4,64 +4,43 @@ Welcome to the **Vastrabagh Online Clothing Showroom Chatbot** project!
 
 ## Project Overview
 
-This project is an interactive web-based chatbot interface for the Vastrabagh clothing showroom. It provides premium clothing solutions for men, women, and kids. Visitors can seek guidance, explore products, and get instant assistance using the integrated chatbot.
+This is a responsive and interactive website for Vastrabagh clothing showroom, featuring a user-friendly landing page and an integrated chatbot for customer support.
+
+## Live Website
+
+[https://noumishpanadiwal.github.io/chatbot-for-online-clothing-showroom/](https://noumishpanadiwal.github.io/chatbot-for-online-clothing-showroom/)
 
 ## Features
 
-- **Modern Landing Page:** Responsive design using Tailwind CSS.
-- **Category Browsing:** Filter for Men, Women, Kids, Accessories, and Sale.
-- **Product Highlights:** Featured products and shop-by-occasion sections.
-- **Integrated Chatbot:** Powered by IBM Watson Assistant to answer queries.
-- **Newsletter Signup:** Stay updated with exclusive offers.
-- **Cart and Favourites:** Add products to bag or wishlist.
-- **Quick Navigation:** Fast access to contact, policies, and social media.
-
-## Website
-
-Live project:  
-[https://noumishpanadiwal.github.io/chatbot-for-online-clothing-showroom/](https://noumishpanadiwal.github.io/chatbot-for-online-clothing-showroom/)
-
-## How to Use
-
-1. Go to the website link above.
-2. Browse categories and products.
-3. Interact with the chatbot for assistance and recommendations.
-4. Use search for quick product access.
-5. Sign up for the newsletter.
+- **Responsive Landing Page**: Stylish layout with product highlights for Men, Women, and Kids.
+- **Category Browsing**: Sections for Men, Women, Kids, Accessories, and Sale.
+- **Featured Products**: Displayed with name, price, discount info, and ratings.
+- **Add to Bag**: Simulated cart addition with alert (no actual backend cart).
+- **Product Search Bar**: Simulated search with alert popup.
+- **Navigation Bar**: Quick links for user actions, categories, and social media.
+- **Newsletter Signup**: Form with email validation and alert feedback.
+- **Policy Section**: Shows discount, return, and shipping information.
+- **Footer**: Quick links, company info, categories, and social.
 
 ## Technologies Used
 
 - HTML
 - Tailwind CSS
 - Font Awesome
-- IBM Watson Assistant (chatbot)
 - JavaScript
-
-## Repository Structure
-
-```
-chatbot-for-online-clothing-showroom/
-├── chatbot/
-│   └── chatbot.html          # Main chatbot interface
-├── index.html                # Redirect to chatbot page
-├── README.md                 # Project documentation
-```
 
 ## Team
 
-**Team Name:** Task Masters
+**Team Name:** Team Vastrabagh
 
 **Members:**
 - Noumish Panadiwal
 - Prasanna Amin
 - Sarthak Choudhary
-- Arya Shah
+- Raj Kankane
 
-## Credits
-
-- IBM Watson Assistant for chatbot
-- Tailwind CSS & Font Awesome for UI
 
 ## License
 
-For educational use.  
+Educational use only.  
+Feel free to view and adapt.
